@@ -6,12 +6,7 @@
 
 ## Projects I worked on are
 - 4x4 Vadic Multiplier.
-- Analog implementation of Neural Network :-
-To implement Neural Network in analog domain to increase performance using
-contenus processing and consuming less power as transistor conus can be
-reduced. A neuron can be made with a current adder while resistor can act
-as weight and for activation function we can implement ReLU with a diode
-or transistor as a diode Making a neuron
+- Analog implementation of Neural Network.
 - bokeh blur using complex gaussian functoin.
 - Image to text conversion using convolution neural network.
 - Automatic object catcher.
